@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestiuneBugetStudenti", "GestiuneBugetStudenti\GestiuneBugetStudenti.csproj", "{726E58BB-377C-4C01-BEA1-D93C94815EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726E58BB-377C-4C01-BEA1-D93C94815EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726E58BB-377C-4C01-BEA1-D93C94815EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726E58BB-377C-4C01-BEA1-D93C94815EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726E58BB-377C-4C01-BEA1-D93C94815EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
